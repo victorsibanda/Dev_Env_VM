@@ -24,3 +24,4 @@
 cd /home/ubuntu/
 python3 main.py
 ```
+.
