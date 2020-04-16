@@ -1,16 +1,26 @@
 # Dev Environment
 
 
-To Use this Environment:
+### To Use this Environment:
 
 `git clone git@github.com:victorsibanda/Dev_Env_VM.git`
 
+### To Access
 
- To Test
+```
+- vagrant up
+- vagrant ssh
+
+```
+
+### To Test
 
  `cd code`
  `python3 -m pytest tests`
 
+### To Run the application
 
-//New Pulls Should Start the Code
-//Testing Push
+```
+cd /home/ubuntu/
+python3 main.py
+```
